@@ -1,121 +1,152 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/9017b3b3-5288-4156-bd18-15dbe64ab111" alt="RyTuneX Logo" width="128">
-</p>
+</div>
 
-# RyTuneX
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
-[![License: AGPL v3.0](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
-[![GitHub stars](https://img.shields.io/github/stars/rayenghanmi/RyTuneX.svg)](https://github.com/rayenghanmi/RyTuneX/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/rayenghanmi/RyTuneX.svg)](https://github.com/rayenghanmi/RyTuneX/issues)
-[![GitHub forks](https://img.shields.io/github/forks/rayenghanmi/RyTuneX.svg)](https://github.com/rayenghanmi/RyTuneX/network)
-[![YouTube](https://img.shields.io/badge/YouTube-RyTuneX-red)](https://youtube.com/@rayen.ghanmi.23?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rayen_ghanmi_23.svg?style=social)](https://twitter.com/rayen_ghanmi_23)
-[![Facebook](https://img.shields.io/badge/Facebook-rayen.ghanmi.23-blue)](https://www.facebook.com/rayen.ghanmi.23)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-blue)](https://discord.gg/gyBzyd364t)
-[![Website](https://img.shields.io/badge/Website-RyTuneX-blue)](https://rayenghanmi.github.io/rytunex)
-
-> [!NOTE]  
-> Follow RyTuneX on [Facebook](https://facebook.com/rytunex)
-
-> [!TIP]  
-> To keep an eye on what's currently being worked on and what's being fixed check testing branch's [CHANGELOG.md](../testing/CHANGELOG.md)
-## Description
-
-RyTuneX is an optimizer made using the WinUI 3 framework, designed to elevate the performance of Windows devices. Tailored for both Windows 10 and 11, RyTuneX allows users to selectively remove unwanted pre-built applications that are challenging to uninstall and to disable unnecessary background services.
-
-## Key Features:
-
-- **Selective App Removal:** Remove unwanted pre-installed apps that are typically hard to uninstall, freeing up valuable storage space.
-
-- **Background Service Management:** Disable unnecessary background services to streamline system resources, enhancing overall performance.
-
-- **Privacy Enhancements:** Enhance privacy by blocking telemetry and data collection processes, ensuring a more secure computing environment.
-
-- **WinUI 3 Framework:** Built with the modern WinUI 3 framework, RyTuneX ensures a sleek and responsive user interface.
-
-- **Windows 10 and 11 Compatibility:** Optimized to enhance performance on both Windows 10 and Windows 11.
-
-## Screenshots
+<h1 align="center">RyTuneX 🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/ba1547f9-05b3-4408-bfdd-be59bf42f090" alt="RyTuneX" width="400" />
-  <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/344ed2a2-a7e5-4684-9bd4-63e5c36e39eb" alt="RyTuneX" width="400" />
+  <strong>Enhance your Windows 10 and 11 experience with RyTuneX – your go-to optimizer by Rayen Ghanmi 🛠️.</strong>
 </p>
 
 <p align="center">
-  <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/47c15490-7505-4255-8f82-d78eefd4b534" alt="RyTuneX Setup" width="800" />
+  <a href="https://techforpalestine.org/learn-more">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Ceasefire Now">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/b32ba614-2a9f-4fe7-b5b8-49d3c009e2bb" alt="RyTuneX" width="400" />
-  <img src="https://github.com/rayenghanmi/RyTuneX/assets/108760398/f67bdd4a-9d92-4ac6-8a75-e23ae9d07b58" alt="RyTuneX" width="400" />
+  <a href="https://github.com/rayenghanmi/RyTuneX/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg" alt="License: AGPL v3.0"></a>
+  <a href="https://github.com/rayenghanmi/RyTuneX/stargazers"><img src="https://img.shields.io/github/stars/rayenghanmi/RyTuneX.svg" alt="GitHub stars"></a>
+  <a href="https://github.com/rayenghanmi/RyTuneX/issues"><img src="https://img.shields.io/github/issues/rayenghanmi/RyTuneX.svg" alt="GitHub issues"></a>
+  <a href="https://github.com/rayenghanmi/RyTuneX/network"><img src="https://img.shields.io/github/forks/rayenghanmi/RyTuneX.svg" alt="GitHub forks"></a>
 </p>
 
-## Installation
+<p align="center">
+  <a href="https://youtube.com/@rayen.ghanmi.23?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-RyTuneX-red" alt="YouTube"></a>
+  <a href="https://twitter.com/rayen_ghanmi_23"><img src="https://img.shields.io/twitter/follow/rayen_ghanmi_23.svg?style=social" alt="Twitter Follow"></a>
+  <a href="https://www.facebook.com/rayen.ghanmi.23"><img src="https://img.shields.io/badge/Facebook-rayen.ghanmi.23-blue" alt="Facebook"></a>
+  <a href="https://discord.gg/gyBzyd364t"><img src="https://img.shields.io/badge/Discord-Join%20Us-blue" alt="Discord"></a>
+  <a href="https://rayenghanmi.github.io/rytunex"><img src="https://img.shields.io/badge/Website-RyTuneX-blue" alt="Website"></a>
+</p>
 
-It has never been easier to get started with RyTuneX. Follow these simple steps:
+## 📝 About
 
-1. **Download**: Get the installation setup:
+RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices 🚀. Crafted for Windows 10 and 11, RyTuneX empowers users to effortlessly remove stubborn pre-installed apps and optimize system resources 🛠️.
 
+## 🚀 Features
+
+- **Selective App Removal**: Uninstall unwanted pre-installed apps with ease 🗑️.
+- **Background Service Management**: Streamline your system by disabling unnecessary services ⚙️.
+- **Privacy Enhancements**: Fortify your privacy by blocking telemetry and data collection 🔒.
+- **Modern Design**: Enjoy a sleek and intuitive interface powered by WinUI 3 🎨.
+- **Cross-Compatible**: Experience seamless performance optimization on both Windows 10 and 11 🖥️.
+
+## 📸 Screenshots
+
+![version 0.1.8](https://github.com/rayenghanmi/RyTuneX/assets/108760398/02f08c0c-bfa4-48ee-ad68-8b4228337a8f)
+![0.8.1 setup](https://github.com/rayenghanmi/RyTuneX/assets/108760398/ae2ad043-da1b-4f00-9105-bf47c213f892)
+
+## 🛠 Installation
+
+1. **Download**: Get the latest installation package:
     [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/rayenghanmi/RyTuneX/releases/latest)
 
-3. **Install**: Once the download is complete, run the setup and follow the on-screen instructions to install RyTuneX.
+2. **Install**: Run the downloaded setup and follow the prompts to install RyTuneX.
 
-That's it! It's as easy as that. Now you're ready to enjoy the features of RyTuneX.
+> [!IMPORTANT]
+> Always download RyTuneX from the official [GitHub releases page](https://github.com/rayenghanmi/RyTuneX/releases) to ensure its authenticity and safety 🔒.
 
-> [!NOTE]  
-> Due to the non-certified setup executable, you may encounter warnings from Windows Defender during installation, indicating that the app is flagged as malware or from an untrusted source. If you have concerns, you can clone the repository and builde the application yourself.
+## 📖 Usage
 
-**Important**: Only download RyTuneX from the official [GitHub releases page](https://github.com/rayenghanmi/RyTuneX/releases). Avoid downloading from unofficial sources to ensure the integrity of the application.
+### System Optimizations 🛠️
 
-## Usage
+1. **Navigate to "Optimize System" Tab**: Find and click on the "Optimize System" tab in the RyTuneX interface.
 
-### System Optimizations
+2. **Customize Optimization Settings**: Toggle switches to activate or deactivate optimization features. Hover over options for more info. Remember to restart your system to apply changes 🔄.
 
-1. **Navigate to "Optimize System" Tab:**
-   - Locate and click on the "Optimize System" tab in the RyTuneX user interface.
+### Debloat Unwanted Apps 🗑️
 
-2. **Customize Optimization Settings:**
-   - Toggle each switch to enable or disable specific optimization features.
-   - Hover over each option to get detailed information about its functionality.
-   - Tailor the optimization settings based on your preferences.
-   - Make sure to restart your system for changes to take effect.
+1. **Visit the "Debloat" Tab**: Go to the "Debloat" tab to manage unnecessary apps.
 
-### Debloat Unwanted Apps
+2. **Select Apps for Removal**: Browse the app list and select the ones you wish to remove.
 
-1. **Visit the "Debloat" Tab:**
-   - Access the "Debloat" tab to manage unwanted applications on your system.
+3. **Uninstall Selected Apps**: Hit "Uninstall Apps" to begin the removal process and restart your system after completion 🔄.
 
-2. **Select Apps for Removal:**
-   - Browse through the list of apps presented in the "Debloat" tab.
-   - Choose the apps you want to remove by selecting the corresponding checkboxes.
+### Privacy Enhancements 🔒
 
-3. **Uninstall Selected Apps:**
-   - Click the "Uninstall Apps" button to initiate the removal process for the selected applications.
-   - Make sure to restart your system.
+1. **Navigate to "Privacy" Tab**: Find and click on the "Privacy" tab in RyTuneX.
 
-Feel free to explore these sections and customize your system optimizations and app removals according to your preferences.
+2. **Customize Privacy Settings**: Toggle switches to activate or deactivate privacy features. Hover over options for more details. Restart your system for changes to take effect 🔄.
 
-## Contributing
+### Windows Features Management ⚙️
 
-If you want to contribute to this project, follow these steps:
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
+1. **Navigate to "Windows Features" Tab**: Find and click on the "Windows Features" tab in RyTuneX.
 
-## License
+2. **Customize Windows Feature Settings**: Toggle switches to activate or deactivate specific Windows features. Hover over options for more details. Restart your system for changes to take effect 🔄.
+
+### System Information 🖥️
+
+This page offers detailed insights into your system's hardware and OS. Familiarize yourself with your system's specs for informed optimization and maintenance.
+
+#### Operating System
+
+- **OS Name**: Display your OS version.
+- **Build Number**: Show your OS build number.
+
+#### CPU Information
+
+- **Name**: Reveal your CPU model.
+- **Cores**: Show the number of CPU cores.
+- **Max Speed**: Display your CPU's max speed.
+
+#### GPU Information
+
+- **GPU Model**: Show your GPU details.
+- **GPU Memory**: Indicate GPU memory size (in bytes).
+
+#### RAM Information
+
+- **Capacity**: Display total RAM (in MB).
+- **Speed**: Show RAM speed (in MHz).
+
+#### Storage Information
+
+- **Size**: Reveal the total disk capacity.
+- **Model**: Show disk model.
+
+#### Driver Extraction
+
+- **Extract Drivers**: Extract current system drivers for convenient backup and restoration 📦.
+
+> [!NOTE]
+> Driver extraction aids in backups and reinstalls. Always backup drivers before making system changes 🔒.
+
+## 🤝 Contributing
+
+We value your contributions! Please submit all pull requests to the `testing` branch. Contributions to `main` will not be accepted.
+
+## 🌐 Translation
+
+If you're interested in contributing translations, please follow these steps:
+
+1. **Clone the File**: Clone the [Resources.resw](../testing/Strings/en-us/Resources.resw) file.
+2. **Translate the File**: Translate its contents into your desired language.
+3. **Save and Structure**: Save the translated file with the name `Resources.resw` inside a new folder named with your language code (e.g., `fr-fr` for French).
+4. **Create Pull Request**: Submit a pull request to the `testing` branch, ensuring the new `resw` file is included in the correct language folder within the `Strings` directory.
+
+Thank you for your help in making RyTuneX accessible to more people!
+
+## 📝 License
 
 This project is licensed under the [GNU Affero General Public License v3.0](https://github.com/rayenghanmi/RyTuneX/blob/main/LICENSE.md).
 
-[![License: AGPL v3.0](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
+## 📞 Contact
 
-## Contact
-
-- Email: ghanmirayen12@gmail.com
+- Email: [ghanmirayen12@gmail.com](mailto:ghanmirayen12@gmail.com)
 - Twitter: [@rayen_ghanmi_23](https://twitter.com/rayen_ghanmi_23)
 - Facebook: [rayen.ghanmi.23](https://www.facebook.com/rayen.ghanmi.23)
+- Discord: [RyTuneX](https://discord.gg/gyBzyd364t)
+- Instagram: [@rayen.ghanmi.23](https://instagram.com/rayen.ghanmi.23)
+- GitHub: [rayenghanmi](https://github.com/rayenghanmi)
 
-Feel free to reach out if you have any questions or suggestions!
+Feel free to reach out with any questions or suggestions! 📣
